@@ -5,7 +5,7 @@
 
 These Terms of Service ("Terms," "Agreement") constitute a legally binding agreement between you ("User," "Server Administrator," or "you") and the developer(s) and administrative team of **Zypher** ("Developer," "we," "us," or "our"), governing your access to and use of the Zypher Discord application ("the Bot" or "Service").
 
-By inviting Zypher to a Discord server ("Guild"), retaining the Bot within a server, or executing any of its prefix commands, slash commands, or automated security modules, you acknowledge that you have read, understood, and agreed to be bound by these Terms, our **Privacy Policy**, and Discord’s [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines). If you do not agree to these Terms, you must immediately remove Zypher from your server and discontinue all use of the Service.
+By inviting Zypher to a Discord server ("Guild"), retaining the Bot within a server, or executing any of its prefix commands, slash commands, or automated security modules, you acknowledge that you have read, understood, and agreed to be bound by these Terms, our [**Privacy Policy**](https://github.com/eren-yeagerw/zypher-privacy), and Discord’s [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines). If you do not agree to these Terms, you must immediately remove Zypher from your server and discontinue all use of the Service.
 
 ---
 
@@ -106,6 +106,5 @@ We reserve the right to revise these Terms of Service at any time. Updated versi
 
 For questions regarding these Terms, security reports, or blacklist appeals, please contact the Developer team:
 
-* **Official Support Server:** [Insert Discord Support Server Invite Link]
-* **Legal & Support Email:** [Insert Contact Email Address]
-* **Official Website / Documentation:** [Insert Website URL, if applicable]
+* **Official Support Server:** [Discord Support Server](https://discord.gg/UnSU9BBTaw)
+* **Legal & Support Email:** [Contact Email Address](mailto:support.zypher@gmail.com)
